@@ -293,7 +293,7 @@ strong {
   CUSTOM BUTTON               
 -----------------------------------------*/
 .custom-btn {
-  background: var(--custom-btn-bg-color);
+  background:#42f554;
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
@@ -305,7 +305,7 @@ strong {
 }
 
 .custom-btn:hover {
-  background: var(--custom-btn-bg-hover-color);
+  background: #000000;
   color: var(--white-color);
 }
 
@@ -332,7 +332,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-color: var(--primary-color);
+  background-color:#42f554;
   padding-top: 12px;
   padding-bottom: 12px;
 }
@@ -383,7 +383,7 @@ strong {
 
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover {
-  color: var(--secondary-color);
+  color:#42f554;
 }
 
 .navbar-toggler {
@@ -490,7 +490,7 @@ strong {
 -----------------------------------------*/
 .about-section {
   background-image: url('../images/edward-unsplash-blur.jpg');
-  background-color: #704010;
+  background-color: #42f554;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -643,7 +643,7 @@ strong {
 }
 
 .custom-form button[type="submit"] {
-  background: var(--custom-btn-bg-color);
+  background: #42f554;
   border: none;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
@@ -655,7 +655,7 @@ strong {
 
 .custom-form button[type="submit"]:hover,
 .custom-form button[type="submit"]:focus {
-  background: var(--custom-btn-bg-hover-color);
+  background: #000000;
   border-color: transparent;
 }
 
@@ -671,7 +671,7 @@ strong {
 }
 
 .site-footer-top {
-  background-color: var(--secondary-color);
+  background-color: #42f554;
   background-image: url('../images/nainoa-shizuru-NcdG9mK3PBY-unsplash.jpg');
   background-repeat: no-repeat;
   margin-bottom: 70px;
@@ -723,7 +723,7 @@ strong {
 }
 
 .social-icon-link {
-  background: var(--secondary-color);
+  background: #000000;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
   font-size: var(--copyright-font-size);
@@ -737,7 +737,7 @@ strong {
 }
 
 .social-icon-link:hover {
-  background: var(--primary-color);
+  background:#42f554;
   color: var(--white-color);
 }
 
